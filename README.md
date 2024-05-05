@@ -1,2 +1,2 @@
-# Site-Apresentacao
- Um site de Apresentação feito em html e css. Um projeto feito no curso da plataforma Alura.
+# Site Apresentação
+ Um site de Apresentação feito em html e css. Um projeto criado durante o curso da plataforma Alura sobre HTML e CSS.
